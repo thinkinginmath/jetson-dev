@@ -1,4 +1,4 @@
-# Setup Development Envrionment on Nvidia Jetson Board
+# Setup PyTorch on Nvidia Jetson Board
 
 This note explains the steps to get the Jetson board ready for PyTorch development.
 
